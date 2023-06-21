@@ -1,4 +1,4 @@
-### Hello, friend!
+![Header](./github-header-image.png)
 
 ## :atom: About me:
 My name is Nikita Savvinov and I'm chasing my dream! ✨
