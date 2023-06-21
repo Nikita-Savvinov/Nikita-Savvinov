@@ -6,6 +6,11 @@ My name is Nikita Savvinov and I'm chasing my dream! ✨
 I built my career as an auditor and an IFRS specialist, but decided to do what I had been striving for since childhood to become an IT specialist.
 
 Throughout my career as an economist, I have always implemented solutions that helped automate the workflow, so I came to the profession of a data engineer, and later began studying to the data scientist.
+
+- 🌱 I'm currently taking a course on the Yandex Practicum platform
+- 🌟 I'm studying the necessary tools for data science on stepik
+- 🔭 I'm looking for job
+
 ## 🛎️ How to reach me:
 <a href="https://t.me/n_savvinov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram group" />
